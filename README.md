@@ -4,7 +4,6 @@ An OLX based Auction System
 
 A Progressive Web Application using a backend REST API 
 
-Click Here:- [Node-OLX](https://node-olx.firebaseapp.com)
 
 
 ## Setup The Project
@@ -58,11 +57,7 @@ Open the index.html with live browser
 - Mongoose
 - Bcrypt (For Password Hashing)
 
-## Testing Tools
 
-- Mocha
-- Chai
-- Chai-http
 
 ## Authentication Tools
 
